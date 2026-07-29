@@ -1,0 +1,8 @@
+data:
+  raw_path: "data/raw/reviews.csv"
+  model_path: "models/sentiment_model.pkl"
+  num_samples: 2000
+
+model:
+  n_topics: 3
+  random_state: 42
